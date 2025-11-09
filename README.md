@@ -71,4 +71,4 @@ ML models for extracting insights from spatial datasets
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:avikakhemuka124@gmail.com)
 
 ---
-⭐️ From [avika-khemuka](https://github.com/yourusername)
+⭐️ From [avika-khemuka](https://github.com/avika124]
