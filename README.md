@@ -1,4 +1,4 @@
-# Hi there, I'm Avika! 👋
+# Hi there, I'm Avika! 
 
 ## 🚀 About Me
 AI/ML Engineer with hands-on experience building production-ready deep learning systems. Currently pursuing B.Tech in Computer Science & Engineering at SRM University with 8.1 CGPA.
@@ -59,10 +59,6 @@ ML models for extracting insights from spatial datasets
 - **Tech**: Python, GeoPandas, scikit-learn, Power BI
 - **Achievement**: 88% prediction accuracy
 - **Impact**: Supported 3 client projects with automated pipelines
-
-## 📈 GitHub Stats
-
-![Avika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🏆 Certifications
 - 🐍 PCAP: Certified Associate in Python Programming (Python Institute)
